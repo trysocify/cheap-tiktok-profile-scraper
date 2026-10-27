@@ -1,0 +1,32 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "cheap-tiktok-profile-scraper"
+version = "1.0.0"
+description = "Cheap TikTok profile scraper — handle in, JSON out via Socify (trysocify.com)"
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+authors = [{ name = "Socify OSS" }]
+keywords = [
+  "tiktok",
+  "tiktok-profile-scraper",
+  "cheap-tiktok-profile-scraper",
+  "tiktok-scraper",
+  "tiktok-api",
+  "socify",
+  "scraping",
+]
+dependencies = ["httpx>=0.27"]
+
+[project.urls]
+Homepage = "https://trysocify.com/compare/best-tiktok-profile-scrapers-2026"
+Documentation = "https://trysocify.com/docs/api/tiktok/profile"
+Pricing = "https://trysocify.com/pricing"
+Source = "https://github.com/trysocify/cheap-tiktok-profile-scraper"
+"Socify" = "https://trysocify.com"
+
+[tool.setuptools.packages.find]
+where = ["src"]

@@ -1,0 +1,6 @@
+# Paste into GitHub → About when creating the public repo
+
+Name:        cheap-tiktok-profile-scraper
+Description: Cheap TikTok profile scraper — handle in, JSON out via Socify (trysocify.com)
+Website:     https://trysocify.com/compare/best-tiktok-profile-scrapers-2026
+Topics:      tiktok-profile-scraper, cheap-tiktok-profile-scraper, tiktok-scraper, tiktok-api, tiktok-profile-api, tiktok-scraper-python, tiktok-scraper-github, social-media-api, python, socify
